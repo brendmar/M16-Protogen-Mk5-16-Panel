@@ -1,0 +1,6 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+Adafruit GFX Library
+Adafruit BusIO
+arduino-Max72xxPanel-master@wokwi:91164ccf0197dc01e46afb8da2899bc1f39e3210
